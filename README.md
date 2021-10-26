@@ -43,9 +43,12 @@ Doing this assignment was really easy and it was really fun. The diection's were
 
 ### Images
 I am not fully finshed with the project but this is how far I have got. 
+I am finally done with all parts today. 
 
 <img src="https://github.com/msadat50/Intermediate-CAD/blob/main/Images/Picture/Brick.png?raw=true" width="400">
-
+<img src="https://github.com/msadat50/Intermediate-CAD/blob/main/Images/Picture/Duck.png?raw=true" width="400">
+<img src="https://github.com/msadat50/Intermediate-CAD/blob/main/Images/Picture/Duck%20drawing%20.png?raw=true" width="400">
+                                                                                                                          
 
 ### Reflection
-This assingment was really easy I enjoyed making this brick. The only trouble that I have right now is the color part. In the direction it shows how to add the color part I followed the direction's, but still I just couldn't add it. As soon as I got to the class I will ask Mr. H for help and get it done as soon as possiable. Otherwise I didn't had any trouble doing this assignment so far. 
+This assingment was really easy I enjoyed doing this assignment. The only trouble that I had was the color part. In the direction it shows how to add the color part I followed the direction's, but still I just couldn't find it. I asked Mr. Dierolf for help thanks to him he help me find it Otherwise I didn't had any trouble doing this assignment. 
