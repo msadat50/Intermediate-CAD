@@ -19,10 +19,13 @@ This is the finally look.
 
 
 ### Reflection
-Doing this was really hard. We had to design the Swing Arm by looking at the map it was really hard I didn't know where to start or how to do it. MR. H helped me get start he explained the map to me than he designed the first part for me so I know where to start. After that I kinda knew where to start. The dimension was the hard part for me I was so confused about the dimension they were just bunch of numbers and I didn't know which dimension is for which area's. Thanks to MR. H and MR. Dierolf they helped me a lot with this project. 
+Doing this was really hard. We had to design the Swing Arm by looking at the map it was really hard.I didn't know where to start or how to do it. MR. H helped me get start he explained the map to me than he designed the first part for me so I know where to start. After that I kinda knew where to start. The dimension was the hard part for me I was so confused about the dimension they were just bunch of numbers and I didn't know which dimension is for which area's. Thanks to MR. H and MR. Dierolf they helped me a lot with this project. 
 
 
 ### Skateboard
+
+### Description 
+In this assignment we had to built a skateboard using part studio and Assembly. 
 
 ### Evidence
 [Skateboard in Onshape](https://cvilleschools.onshape.com/documents/234c31ec3be3aaa29040f989/w/bfe8265bcab9a6eed6d9f235/e/e0c5c423f688c90f8997ae7a?renderMode=0&uiState=617303dcf592e40dd9f7d91f)
@@ -31,10 +34,37 @@ Doing this was really hard. We had to design the Swing Arm by looking at the map
 This is the finall look. 
 
 <img src="https://github.com/msadat50/Intermediate-CAD/blob/main/Images/Picture/skateboard.png?raw=true" width="400">
+<img src=https://user-images.githubusercontent.com/71345399/139082589-b60e0ed8-4eee-466f-bf39-216a09ed9971.png width="400">                                                     
+<img src=https://user-images.githubusercontent.com/71345399/139078821-a9fcae67-a568-41e9-8c0d-79d5ad467194.png width="400">
+<img src=https://user-images.githubusercontent.com/71345399/139082568-3e57869e-ed9c-4237-8c2c-ad56869b5108.png width="400"> 
+
+
+
 
           
-### Reflection
-Doing this assignment was really easy and it was really fun. The diection's were really clear I knew what to do. I had the screw's in the wrong direction so I has to start over which was really annoyin, but I got through it thanks to Mr. Dierolf he helped me correct my mistakes. 
+### Overall Reflection
+Doing this assignment was really easy and it was really fun. We used a lot of different tools which was really cause I get to know those tools better and how to use them. 
+The diection's were really clear I knew what to do. But I wasn't folowing the intruction exactly that's why I use to make a lot of mistakes,and I had the screw's in the wrong direction in the deck. So I had to start over which was really annoying, but I got through it thanks to Mr. Dierolf he helped me correct my mistakes. So from my mistake I learned to follow the intruction exactly. I also learned how to make a Truck Baseplate, Truck Hanger and a Bushing. 
+
+
+### Deck Reflection 
+Making a Deck was really fun and easy to make. 
+
+### Truck Baseplate Reflection 
+Making the truck baseplate was easy 
+ 
+### Truck Hanger Reflection
+
+### Bushing Reflection 
+
+### Wheel Reflection
+
+### bearing Reflection
+
+### Assmebly Reflection
+
+ 
+
 
 ### Bricks 
 
@@ -52,3 +82,4 @@ I am finally done with all parts today.
 
 ### Reflection
 This assingment was really easy I enjoyed doing this assignment. The only trouble that I had was the color part. In the direction it shows how to add the color part I followed the direction's, but still I just couldn't find it. I asked Mr. Dierolf for help thanks to him he help me find it Otherwise I didn't had any trouble doing this assignment. 
+I learned how to make a Duck using Bricks and plates. 
