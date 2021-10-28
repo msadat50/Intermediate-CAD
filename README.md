@@ -25,7 +25,7 @@ Doing this was really hard. We had to design the Swing Arm by looking at the map
 ### Skateboard
 
 ### Description 
-In this assignment we had to built a skateboard using part studio and Assembly. 
+In this assignment we had to built a skateboard using part studio and Assembly. The skateboard made out of a deck, trucks, which consist of a baseplate, hanger, busing, wheel, and bearing. 
 
 ### Evidence
 [Skateboard in Onshape](https://cvilleschools.onshape.com/documents/234c31ec3be3aaa29040f989/w/bfe8265bcab9a6eed6d9f235/e/e0c5c423f688c90f8997ae7a?renderMode=0&uiState=617303dcf592e40dd9f7d91f)
@@ -48,22 +48,19 @@ The diection's were really clear I knew what to do. But I wasn't folowing the in
 
 
 ### Deck Reflection 
-Making a Deck was really fun and easy to make. 
+Making a Deck was really fun and easy to make. We just had to sketch two circles in the centered conner of the rectangle,demensioned ,then extruded it. After doing that we would make a hole using the hole bar tool which I thought it was really helpful to use because you could create many hole just by using that tool bar. 
 
-### Truck Baseplate Reflection 
-Making the truck baseplate was easy 
- 
-### Truck Hanger Reflection
+### Trucks Reflection 
+We built the truck baseplate using the holes in the deck. The we used the deck to create a geometry look for hunger, busing, and baseplate. We used the hole of the deck to make the holes for the truck Baseplate without having to demension it or extruded them separately. The hunger and the busing are also made of the same geometry using deck and the baseplate. 
 
-### Bushing Reflection 
-
-### Wheel Reflection
-
-### bearing Reflection
+### Wheel and bearing Reflection
+The wheels were created using the revolve feature because we wanted to have a round shape that's why we used the revolve tool instead of extrude. Otherwise everything was good and I enjoyed doing this assignment. 
 
 ### Assmebly Reflection
-
+Doing the assmebly was really easy. The features that are in the onshape are really easy to use, and those tools make the assmebly really easy. I use the Replicate tool to add more screws in the board using that tool was really easy and fast to use. Using this tool was really helpful to use in the future. 
  
+### Bending the Board Reflection
+For the extension I bented the board to make it look more realistic. I used the spilt feature which allow us to bend the ends of the board. I use the move up face feature to make the deck bend, Lastly I use the filet tool to make the spilt part kind of flat. 
 
 
 ### Bricks 
@@ -78,6 +75,7 @@ I am finally done with all parts today.
 <img src="https://github.com/msadat50/Intermediate-CAD/blob/main/Images/Picture/Brick.png?raw=true" width="400">
 <img src="https://github.com/msadat50/Intermediate-CAD/blob/main/Images/Picture/Duck.png?raw=true" width="400">
 <img src="https://github.com/msadat50/Intermediate-CAD/blob/main/Images/Picture/Duck%20drawing%20.png?raw=true" width="400">
+<img src="https://github.com/msadat50/Intermediate-CAD/blob/main/Images/Picture/Drawing%20plan.png?raw=true" width="400">
                                                                                                                           
 
 ### Reflection
